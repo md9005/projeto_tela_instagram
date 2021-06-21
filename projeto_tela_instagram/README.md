@@ -1,0 +1,1 @@
+Um pequeno projeto de estudo feito em um bootcamp, onde o objetivo era replicar a tela inical do instagram. A linguagem utilizada foi HTML5 e CSS3 
